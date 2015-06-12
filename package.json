@@ -1,0 +1,6 @@
+{
+  "name": "casperjs-docker",
+  "version": "0.0.1",
+  "main": "casperjs-docker.js",
+  "private": true
+}
