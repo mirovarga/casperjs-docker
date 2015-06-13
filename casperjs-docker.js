@@ -49,7 +49,7 @@ var maxScriptRunTime = 30000;
 
 // Runs a script.
 //
-// The callback receives err and script argument.
+// The callback receives err and script arguments.
 function runScript(source, callback) {
   var script = {
     source: source
