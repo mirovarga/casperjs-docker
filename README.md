@@ -13,7 +13,6 @@ It is a slightly modified version of the one used by the *casperbox.com* service
 
 1. Install [Docker](https://docs.docker.com/installation/#installation)
 2. Build the Docker image used to run CasperJS scripts in:
-
 ```
 $ sudo docker build -t ubuntu/14.04:casperbox .
 ```
