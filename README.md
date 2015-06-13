@@ -13,9 +13,11 @@ It is a slightly modified version of the one used by the *casperbox.com* service
 
 1. Install [Docker](https://docs.docker.com/installation/#installation)
 2. Build the Docker image used to run CasperJS scripts in:
-```
-$ sudo docker build -t ubuntu/14.04:casperbox .
-```
+
+    ```
+    $ sudo docker build -t ubuntu/14.04:casperbox .
+    ```
+
 3. Edit the `run-script-in-docker--password.sh` file to update the sudo password
 
 
