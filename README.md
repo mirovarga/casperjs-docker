@@ -64,3 +64,8 @@ can run them like this (the `-t` option is the test case timeout):
 ```
 $ mocha -t 35000
 ```
+
+
+> There's also a
+[blog post](http://www.mirovarga.com/running-casperjs-scripts-in-docker-containers)
+on my blog.
